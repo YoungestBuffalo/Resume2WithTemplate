@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Julian Orr",
+    "occupation":"Junior Web Developer",
+    "description":"I am currently working on a couple of side projects to hone my skills, but I am always looking for new opportunities.",
+    "image":"profilepic.jpg",
+    "bio":"I have always been insterested in creating things. Whether it was music, or cooking, I have always been able to find plenty of time to make new things, while learning important concepts from my teachers and parents. That is why I feel like I would be a terrific developer. I have a drive to create while craving ideas.",
+    "contactmessage":"Feel free to email, call or text if you would like more information about me.",
+    "email": "j.henry.b.orr@gmail.com",
+    "phone": "509-844-8781",
+    "address":{
+      "street":"30 S 13th Street",
+      "city":"Pittsburgh",
+      "state":"PA",
+      "zip": "15203"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/julian.h.orr",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/julian_orr",
+        "className":"fa fa-twitter"
+      },
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/YoungestBuffalo",
+        "className":"fa fa-github"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am a novice developer and I am extremely ready to be taught new things",
+    "education":[
+      {
+        "school":"Academy Pittsburgh",
+        "degree":"Developer Bootcamp",
+        "graduated":"December 2018",
+        "description":"I learned the basics of programming in multiple frameworks. I also learned how to google things."
+      },
+      {
+        "school":"CCAC",
+        "degree":"Information Technology",
+        "graduated":"Ongoing",
+        "description":"I am constantly looking for new learning opportunities. I have taken various classes at the community college."
+      }
+    ],
+    "work":[
+      {
+        "company":"Fairmont Pittsburgh",
+        "title":"Steward ",
+        "years":"August 2017 - Present",
+        "description":"Worked overnights cleaning the large equipment (grills, fryers, etc) for a year, now I work during the day doing various cleaning tasks"
+      },
+      {
+        "company":"Chipotle Mexican Grill",
+        "title":"Crew Member",
+        "years":"November 2014 - August 2017",
+        "description":"I worked here as soon as I got my workers permit. I worked all through high school. I still make a mean burrito."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"65%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Ruby",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MovieDBSearch",
+        "category":"Showcases use of the MovieDB api",
+        "image":"moviedb.jpg",
+        "url":"https://www.themoviedb.org/"
+      }
+      
+    ]
+  } , 
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Julian is dope.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"Uh hes okay I guess?",
+        "user":"My dad.... Probably"
+      }
+    ]
+  }
+}
