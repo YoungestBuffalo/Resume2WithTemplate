@@ -3,6 +3,17 @@
 /*
  * Open Sans
 ================================================================================ */
+
+
+@font-face {
+
+    font-family: 'Bungee', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Gravitas One', cursive;
+    font-family: 'Monoton', cursive;
+    
+    src: url('https://fonts.googleapis.com/css?family=Bungee|Bungee+Shade|Gravitas+One|Monoton&display=swap');
+}
 @font-face {
     font-family: 'opensans-regular';
     src: url('fonts/opensans/OpenSans-Regular-webfont.eot');

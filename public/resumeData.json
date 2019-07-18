@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Julian Orr",
-    "occupation":"Junior Web Developer",
-    "description":"I am currently working on a couple of side projects to hone my skills, but I am always looking for new opportunities.",
+    "occupation":"Web Developer",
+    "description":" I enjoy mulitple creative outlets, but I am currently attempting to become a full stack developer",
     "image":"profilepic.jpg",
     "bio":"I have always been insterested in creating things. Whether it was music, or cooking, I have always been able to find plenty of time to make new things, while learning important concepts from my teachers and parents. That is why I feel like I would be a terrific developer. I have a drive to create while craving ideas.",
-    "contactmessage":"Feel free to email, call or text if you would like more information about me.",
+    "contactmessage":"Feel free to email, call or text if you would like more information about me",
     "email": "j.henry.b.orr@gmail.com",
     "phone": "509-844-8781",
     "address":{
@@ -35,7 +35,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/young_buffalo/",
         "className":"fa fa-instagram"
       },
       {
@@ -78,32 +78,45 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"65%"
+        "title":"Git",
+        "category":"",
+        "image":"github.jpg"
+        
       },
       {
-        "name":"Microsoft Office",
-        "level":"90%"
+        "title":"React.Js",
+        "category":"",
+        "image":"react.jpg"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "title":"Ruby on Rails",
+        "category":"",
+        "image":"rails.jpg"
       },
       {
-        "name":"Ruby",
-        "level":"70%"
+        "title":"Test Driven Development",
+        "category":"",
+        "image":"tdd.jpg"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "title":"CSS",
+        "category":"",
+        "image":"css.jpg"
       },
       {
-        "name":"C#",
-        "level":"70%"
+        "title":"SQL",
+        "category":"",
+        "image":"sql.jpg"
       },
       {
-        "name":"SQL",
-        "level":"60%"
+        "title":"MVC, C#",
+        "category":"",
+        "image":"csharp.jpg"
+      },
+      {
+        "title":"React Native",
+        "category":"",
+        "image":"native.jpg"
       }
     ]
   },
@@ -113,6 +126,13 @@
         "title":"MovieDBSearch",
         "category":"Showcases use of the MovieDB api",
         "image":"moviedb.jpg",
+        "url":"https://www.themoviedb.org/"
+      },
+
+      {
+        "title":"Color Blocks",
+        "category":"Basic HTML Website",
+        "image":"colorBlocks.jpg",
         "url":"https://www.themoviedb.org/"
       }
       

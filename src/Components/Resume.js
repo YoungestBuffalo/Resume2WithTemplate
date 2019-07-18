@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 
+
 class Resume extends Component {
   render() {
 
+    //pulls from the resumeData.json
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
@@ -16,11 +18,31 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
+     
+    
+    }
+    
+    //pulls from resume data, while making hoverable boxes
+    if(this.props.data){
       var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+        var skillsImage = 'images/skills/'+skills.image;
+        return <div key={skills.title} className="columns skills-item">
+           <div className="item-wrap">
+            <a href={skills.url} title={skills.title}>
+               <img alt={skills.title} src={skillsImage} />
+               <div className="overlay">
+                  <div className="skills-item-meta">
+                 <h5>{skills.title}</h5>
+                     <p>{skills.category}</p>
+                  </div>
+                </div>
+              
+            </a>
+          </div>
+        </div>
       })
     }
+
 
     return (
       <section id="resume">
@@ -53,6 +75,9 @@ class Resume extends Component {
 
 
 
+
+
+
       <div className="row skill">
 
          <div className="three columns header-col">
@@ -61,19 +86,26 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
 
-            <p>{skillmessage}
-            </p>
+            
 
-				<div className="bars">
-				   <ul className="skills">
-					  {skills}
-					</ul>
-				</div>
-			</div>
-      </div>
+             <div className="row">
+
+            <div className="row skill">
+
+            <p>{skillmessage}</p>
+
+            <div id="skills-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+               <ul>{skills}</ul>
+            </div>
+          </div>
+          </div>
+          </div>
+</div>
    </section>
     );
   }
 }
+
+
 
 export default Resume;
