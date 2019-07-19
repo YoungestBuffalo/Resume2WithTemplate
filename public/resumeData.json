@@ -47,7 +47,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am a novice developer and I am extremely ready to be taught new things",
+    "skillmessage":"Skills",
     "education":[
       {
         "school":"Academy Pittsburgh",
@@ -79,43 +79,43 @@
     "skills":[
       {
         "title":"Git",
-        "category":"",
+        "category":"I am very comfortable using Git and Github, and Git pages. I might have too look up how to get out of vim.",
         "image":"github.jpg"
         
       },
       {
         "title":"React.Js",
-        "category":"",
+        "category":"I love React! Single page web apps are awesome and intuitive.",
         "image":"react.jpg"
       },
       {
         "title":"Ruby on Rails",
-        "category":"",
+        "category":"Coding in ruby is awesome! I typically go towards ruby when choosing languages to code in.",
         "image":"rails.jpg"
       },
       {
         "title":"Test Driven Development",
-        "category":"",
+        "category":"I would love to practice more TDD. I have experience with both Rspec and Unit testing.",
         "image":"tdd.jpg"
       },
       {
         "title":"CSS",
-        "category":"",
+        "category":"CSS is suprising powerful. I find myself getting lost vertically while making minor edits.",
         "image":"css.jpg"
       },
       {
         "title":"SQL",
-        "category":"",
+        "category":"We used SQL in our coding bootcamp, I did not throughly enjoy it, but I can definitely navigate databases.",
         "image":"sql.jpg"
       },
       {
         "title":"MVC, C#",
-        "category":"",
+        "category":"C# is a great language to start on,learning how to navigate multiple languages/frameworks was very helpful.",
         "image":"csharp.jpg"
       },
       {
         "title":"React Native",
-        "category":"",
+        "category":"I am still learning React Native, hopefully by the time you see this, I will have a mobile version of my resume up.",
         "image":"native.jpg"
       }
     ]
@@ -141,13 +141,14 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Julian is dope.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.",
+        "user":"Theodore Roosevelt"
       },
       {
-        "text":"Uh hes okay I guess?",
-        "user":"My dad.... Probably"
+        "text":"If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours. ",
+        "user":"Henry David Thoreau"
       }
+      
     ]
   }
 }

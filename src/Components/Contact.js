@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 
 class Contact extends Component {
   render() {
+//Need to figure out the tweets section on the bottom portion. Links arent working,
+//format is strange
+//also need to check how to get the email to work directly
 
     if(this.props.data){
       var name = this.props.data.name;
@@ -90,22 +93,25 @@ class Contact extends Component {
                <div className="widget widget_tweets">
                   <h4 className="widget-title">Thanks for visiting!</h4>
                   <ul id="twitter">
+
+                   <li>
+                        <span>
+                        Check out madsierraphotography! Mads is a local Pittsburgh artist who works mostly in portrait photography. She took all of the photos on the site!
+                        <div></div>
+                        <a href="#">https://www.madsierraphotography.com/</a>
+                        </span>
+                        <b><a href="#">7/18/2019</a></b>
+                     </li>
                     
                      <li>
                         <span>
                         "Sometime the best way to solve your own problems... Is to help someone else" - Iroh
                         
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="#">7/16/2019</a></b>
                      </li>
 
-                      <li>
-                        <span>
-                        When The Met was founded in 1870, it owned not a single work of art...
-                        <a href="#">https://www.metmuseum.org/art/collection</a>
-                        </span>
-                        <b><a href="#">2 Days Ago</a></b>
-                     </li>
+                     
                   </ul>
 		         </div>
             </aside>

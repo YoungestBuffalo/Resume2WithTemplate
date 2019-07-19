@@ -3,7 +3,9 @@ import React, { Component } from 'react';
 
 class Header extends Component {
   render() {
-
+// I like this section of the website with the format, need to make sure it scales 
+//down when on moblie, or smaller monitor etc
+//probably dont need the twitter link but whatever?
     if(this.props.data){
       var name = this.props.data.name;
       var occupation= this.props.data.occupation;

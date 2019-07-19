@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+//this is a strong section as long as the fonts are the same
 
 class About extends Component {
   render() {

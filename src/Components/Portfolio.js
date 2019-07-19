@@ -1,5 +1,6 @@
     
 import React, { Component } from 'react';
+//need to host some of my projects/ add a few more, my portfolio feels weak
 
 
 class Portfolio extends Component {

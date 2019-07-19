@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 
-
+//this section needs some editing, specifically the info,
+//-formatting the skill boxes, sizing, position
+//-info in the skill boxes, breif but connect to my experience
 class Resume extends Component {
   render() {
 
@@ -80,8 +82,12 @@ class Resume extends Component {
 
       <div className="row skill">
 
-         <div className="three columns header-col">
+      <div className="three columns header-col">
             <h1><span>Skills</span></h1>
+         </div>
+
+         <div className="three columns header-col">
+            
          </div>
 
          <div className="nine columns main-col">
@@ -92,7 +98,7 @@ class Resume extends Component {
 
             <div className="row skill">
 
-            <p>{skillmessage}</p>
+            
 
             <div id="skills-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                <ul>{skills}</ul>
