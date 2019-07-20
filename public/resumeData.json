@@ -128,13 +128,26 @@
         "image":"moviedb.jpg",
         "url":"https://www.themoviedb.org/"
       },
+      {
+        "title":"Rogue Game",
+        "category":"backend coding in ruby, posted using rails",
+        "image":"rogue.gif",
+        "url":"https://lionheart963.itch.io/rogue-like-character"
+      },
 
       {
         "title":"Color Blocks",
         "category":"Basic HTML Website",
         "image":"colorBlocks.jpg",
         "url":"https://www.themoviedb.org/"
+      },
+      {
+        "title":"Game of Life",
+        "category":"C#/MVC windows app, Conway's game of life",
+        "image":"gol.gif",
+        "url":"https://www.themoviedb.org/"
       }
+      
       
     ]
   } , 
