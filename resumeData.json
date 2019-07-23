@@ -130,7 +130,7 @@
       },
       {
         "title":"Rogue Game",
-        "category":"backend coding in ruby, posted using rails",
+        "category":"backend coding in ruby, posted using rails, this is currently not posted",
         "image":"rogue.gif",
         "url":"https://lionheart963.itch.io/rogue-like-character"
       },
@@ -139,11 +139,11 @@
         "title":"Color Blocks",
         "category":"Basic HTML Website",
         "image":"colorBlocks.jpg",
-        "url":"https://www.themoviedb.org/"
+        "url":"https://youngestbuffalo.github.io/colorblocksHTML/"
       },
       {
         "title":"Game of Life",
-        "category":"C#/MVC windows app, Conway's game of life",
+        "category":"C#/MVC windows app, Conway's game of life, , this is currently not posted",
         "image":"gol.gif",
         "url":"https://www.themoviedb.org/"
       }
