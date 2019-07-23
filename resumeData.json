@@ -124,9 +124,9 @@
     "projects": [
       {
         "title":"MovieDBSearch",
-        "category":"Showcases use of the MovieDB api",
+        "category":"Showcases use of the MovieDB api, and a working title search",
         "image":"moviedb.jpg",
-        "url":"https://www.themoviedb.org/"
+        "url":"https://www.github.io/YoungestBuffalo/movieApiSearch"
       },
       {
         "title":"Rogue Game",
