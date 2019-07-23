@@ -59,11 +59,12 @@ header .banner {
 
 header .banner-text { width: 90%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'Bungee Shade', cursive;
-   color: rgb(204, 177, 24);
+   font: 90px/1.5em 'Bungee', cursive;
+  
+   color: black;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   text-shadow: 10px 1px 3px rgb(204, 177, 24);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'Bungee', cursive;
@@ -140,6 +141,7 @@ header .scrolldown a:hover { color: rgb(204, 177, 24); }
    font: 12px 'Bungee', cursive;
    width: 100%;
    text-transform: uppercase;
+  
    letter-spacing: 2.5px;
    margin: 0 auto;
    z-index: 100;
@@ -147,7 +149,7 @@ header .scrolldown a:hover { color: rgb(204, 177, 24); }
    left: 0;
    top: 0;
 }
-.opaque { background-color: rgb(173, 173, 173); }
+.opaque { background-color: #2F2D2E }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -176,7 +178,8 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: rgb(0, 0, 0);
+   color: white;
+   text-shadow: 5px 1px 3px black;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
