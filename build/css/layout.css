@@ -74,7 +74,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color:black;
 }
 header .banner-text hr {
    width: 100%;
@@ -174,7 +174,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: rgb(0, 0, 0);
+   color: white;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
