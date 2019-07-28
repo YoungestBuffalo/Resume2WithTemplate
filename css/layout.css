@@ -59,11 +59,11 @@ header .banner {
 
 header .banner-text { width: 90%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'Bungee Shade', cursive;
+   font: 90px/1.1em 'Bungee', cursive;
    color: rgb(204, 177, 24);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   text-shadow: 5px 2px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'Bungee', cursive;
