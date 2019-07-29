@@ -98,9 +98,8 @@ class Contact extends Component {
                    <li>
                         <span>
                         Check out madsierraphotography! Mads is a local Pittsburgh artist who works mostly in portrait photography. She took all of the photos on the site!
-                        
-                        <a href="https://www.madsierraphotography.com/">This is a link to her site!</a>
                         </span>
+                        <a href="https://www.madsierraphotography.com/">This is a link to her site!</a>
                         <b><a href="#">7/18/2019</a></b>
                      </li>
                     
