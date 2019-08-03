@@ -2,9 +2,9 @@
   "main": {
     "name":"Julian Orr",
     "occupation":"Web Developer",
-    "description":" I enjoy mulitple creative outlets, but I am currently attempting to become a full stack developer",
+    "description":" I enjoy multiple creative outlets, but I am currently attempting to become a full stack developer",
     "image":"profilepic.jpg",
-    "bio":"I have always been insterested in creating things. Whether it was music, or cooking, I have always been able to find plenty of time to make new things, while learning important concepts from my teachers and parents. That is why I feel like I would be a terrific developer. I have a drive to create while craving ideas.",
+    "bio":"Growing up with my father, an engineer, I always felt the need to figure out how things worked, ran, and operated. I was first exposed to programming in middle school when my family moved from our home in Spokane, Washington to the South Hills of Pittsburgh. When I graduated from Mount Lebanon I struggled to find something that spoke to my core as a career path. I liked playing music and computer games. While I wasn’t extremely keen on continuing my education, I enrolled in college to study  biology. After a semester of undergrad I knew that I wanted to do something different. I finished my first year of studies, and moved back to Pittsburgh to find work. I eventually found that coding satisfies my interest in understanding complex ideas, my pursuit of challenging material, and my passion for creativity.",
     "contactmessage":"Feel free to email, call or text if you would like more information about me",
     "email": "j.henry.b.orr@gmail.com",
     "phone": "509-844-8781",
@@ -22,8 +22,8 @@
         "url":"https://www.facebook.com/julian.h.orr",
         "className":"fa fa-facebook"
       },
-      
      
+    
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/julian-orr-06b342174/",
@@ -39,7 +39,7 @@
         "url":"https://github.com/YoungestBuffalo",
         "className":"fa fa-github"
       }
-     
+    
     ]
   },
   "resume":{
@@ -49,13 +49,13 @@
         "school":"Academy Pittsburgh",
         "degree":"Developer Bootcamp",
         "graduated":"December 2018",
-        "description":"I learned the basics of programming in multiple frameworks. I also learned how to google things."
+        "description":"I learned the basics of programming in multiple frameworks. I learned how to google using syntax and find answers to/tutorials online for information when needed. I learned the importance of teamwork in development, having a mentor, meeting goals, improving daily."
       },
       {
         "school":"CCAC",
         "degree":"Information Technology",
         "graduated":"Ongoing",
-        "description":"I am constantly looking for new learning opportunities. I have taken various classes at the community college."
+        "description":"I am constantly looking for new learning opportunities. I have taken various classes at the community college, many in information technology"
       }
     ],
     "work":[
@@ -63,21 +63,21 @@
         "company":"Fairmont Pittsburgh",
         "title":"Steward ",
         "years":"August 2017 - Present",
-        "description":"Worked overnights cleaning the large equipment (grills, fryers, etc) for a year, now I work during the day doing various cleaning tasks"
+        "description":"I worked overnights cleaning the large equipment (grills, fryers, etc) for a year, now I work during the day doing various cleaning tasks"
       },
       {
         "company":"Chipotle Mexican Grill",
         "title":"Crew Member",
         "years":"November 2014 - August 2017",
-        "description":"I worked here as soon as I got my workers permit. I worked all through high school. I still make a mean burrito."
+        "description":"I worked here as soon as I got my workers permit. I worked all through high school. I can still make a mean burrito."
       }
     ],
     "skills":[
       {
         "title":"Git",
-        "category":"I am very comfortable using Git and Github, and Git pages. I might have too look up how to get out of vim.",
+        "category":"I am very comfortable using Git and Github, and Git pages. I might have to look up how to get out of vim.",
         "image":"github.jpg"
-        
+       
       },
       {
         "title":"React.Js",
@@ -86,22 +86,22 @@
       },
       {
         "title":"Ruby on Rails",
-        "category":"Coding in ruby is awesome! I typically go towards ruby when choosing languages to code in.",
+        "category":"Coding in ruby is awesome! I typically gravitate towards ruby because it is a very comfortable language, with many helpful bits and pieces.",
         "image":"rails.jpg"
       },
       {
         "title":"Test Driven Development",
-        "category":"I would love to practice more TDD. I have experience with both Rspec and Unit testing.",
+        "category":"I would love to practice TDD more. I have experience with both Rspec and Unit testing.",
         "image":"tdd.jpg"
       },
       {
         "title":"CSS",
-        "category":"CSS is suprising powerful. I find myself getting lost vertically while making minor edits.",
+        "category":"CSS is surprising powerful. I find myself getting lost vertically while making minor edits.",
         "image":"css.jpg"
       },
       {
         "title":"SQL",
-        "category":"We used SQL in our coding bootcamp, I did not throughly enjoy it, but I can definitely navigate databases.",
+        "category":"We used SQL in our coding bootcamp, I did not thoroughly enjoy it, but I can definitely navigate databases.",
         "image":"sql.jpg"
       },
       {
@@ -120,17 +120,17 @@
     "projects": [
       {
         "title":"MovieDBSearch",
-        "category":"Showcases use of the MovieDB api, with a working movie title search",
+        "category":"This react app showcases use of the MovieDB api, with a working movie title search",
         "image":"moviedb.jpg",
         "url":"https://www.github.io/youngestbuffalo/movieApiSearch"
       },
       {
         "title":"Rogue Game",
-        "category":"original ruby fork from Jean Lange, will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link",
+        "category":"This project/idea is originally a fork from Jean Lange, and a project we worked on in class in ruby. I will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link.",
         "image":"rogue.gif",
         "url":"https://github.com/YoungestBuffalo/rogue"
       },
-
+  
       {
         "title":"Color Blocks",
         "category":"Basic HTML Website",
@@ -143,10 +143,10 @@
         "image":"gol.gif",
         "url":"https://github.com/YoungestBuffalo/resume-site"
       }
-      
-      
+     
+     
     ]
-  } , 
+  } ,
   "testimonials":{
     "testimonials":[
       {
@@ -157,7 +157,8 @@
         "text":"If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours. ",
         "user":"Henry David Thoreau"
       }
-      
+     
     ]
   }
-}
+ }
+ 
