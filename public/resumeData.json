@@ -22,11 +22,7 @@
         "url":"https://www.facebook.com/julian.h.orr",
         "className":"fa fa-facebook"
       },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/julian_orr",
-        "className":"fa fa-twitter"
-      },
+      
      
       {
         "name":"linkedin",
@@ -130,9 +126,9 @@
       },
       {
         "title":"Rogue Game",
-        "category":"backend coding in ruby, posted using rails",
+        "category":"original ruby fork from Jean Lange, will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link",
         "image":"rogue.gif",
-        "url":"https://lionheart963.itch.io/rogue-like-character"
+        "url":"https://github.com/YoungestBuffalo/rogue"
       },
 
       {
@@ -143,9 +139,9 @@
       },
       {
         "title":"Game of Life",
-        "category":"C#/MVC windows app, Conway's game of life",
+        "category":"C#/MVC windows app, Conway's game of life, THIS IS NOT POSTED OR FINISHED. The link brings you to the current sites repo",
         "image":"gol.gif",
-        "url":"https://www.themoviedb.org/"
+        "url":"https://github.com/YoungestBuffalo/resume-site"
       }
       
       
