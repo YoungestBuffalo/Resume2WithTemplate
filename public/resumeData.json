@@ -4,7 +4,7 @@
     "occupation":"Web Developer",
     "description":" I enjoy multiple creative outlets, but I am currently attempting to become a full stack developer",
     "image":"profilepic.jpg",
-    "bio":"I was first exposed to programming in middle school when my family moved from our home in Spokane, Washington to the South Hills of Pittsburgh. I wasn’t exactly a model student, I was excited to learn, I liked playing music, and I loved computer games. The traditional school system felt constrictive to creative thought and seemed to reward the wrong style of learning, I definitely had better experiences with different styles of mentorship. While graduating from Mount Lebanon I struggled to find something that spoke to my core as a career path. I wasn’t extremely keen on continuing my traditional education, but I felt the pressure to continue academically, especially because of the importance of a degree in most fields. I enrolled in college to study biology. After a semester of undergrad I knew that I wanted to do something different. I finished my first year of studies, and moved back to Pittsburgh to find work. I eventually found that programming was a great thing to study! It satisfies my interest in understanding complex ideas, my pursuit of challenging material,and my passion for creativity. I also found after speaking with multiple peers that newer companies care less about degrees in CS and more about portfolios showcasing an individual's ability. I enjoy coding because I am always learning new methods and styles and most communities online are encouraging and open minded.",
+    "bio":"I was first exposed to programming in middle school when my family moved from our home in Spokane, Washington to the South Hills of Pittsburgh. I wasn’t exactly a model student, I was excited to learn, I liked playing music, and I loved computer games. The traditional school system felt constrictive to creative thought and seemed to reward the wrong style of learning. Personally, I had better experiences with learning through different styles of mentorship. While graduating from Mount Lebanon I struggled to find something that spoke to my core as a career path. I wasn’t extremely keen on continuing my traditional education, but I felt the pressure to continue academically, especially because of the importance of a degree in most fields. I enrolled in college to study biology at Unity College in Maine. After a semester of undergrad I knew that I wanted to do something different. I finished my first year of studies, and moved back to Pittsburgh to find work. I eventually found that programming was a great thing to study! It satisfies my interest in understanding complex ideas, my pursuit of challenging material, and my passion for creativity. I have found the most value studying software development on my own and with various mentors. I enjoy coding because I am always learning new methods and styles and most communities online are encouraging and open minded.",
     "tldr": "TL;DR I am a hireable, young, professional, entry level programmer and bootcamp grad, with a strong interest in learning new and interesting material. (preferably at a job/contract)",
     "contactmessage":"Feel free to email, call or text if you would like more information about me",
     "email": "j.henry.b.orr@gmail.com",
@@ -19,16 +19,14 @@
     "resumedownload":"RESUMEDC.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/julian.h.orr",
-        "className":"fa fa-facebook"
+        "name":"github",
+        "url":"https://github.com/YoungestBuffalo",
+        "className":"fa fa-github"
       },
-     
-    
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/julian-orr-06b342174/",
-        "className":"fa fa-linkedin"
+        "name":"soundcloud",
+        "url":"https://soundcloud.com/julianhenrymusic",
+        "className":"fa fa-cloud"
       },
       {
         "name":"instagram",
@@ -36,11 +34,12 @@
         "className":"fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/YoungestBuffalo",
-        "className":"fa fa-github"
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/julian-orr-06b342174/",
+        "className":"fa fa-linkedin"
       }
-    
+
+
     ]
   },
   "resume":{
@@ -123,41 +122,34 @@
         "title":"MovieDBSearch",
         "category":"This react app showcases use of the MovieDB api, with a working movie title search",
         "image":"moviedb.jpg",
-        "url":"https://www.github.io/youngestbuffalo/movieApiSearch"
+        "url":"https://youngestbuffalo.github.io/movieApiSearch/"
+      },
+      
+      {
+        "title":"Color Blocks",
+        "category":"Basic HTML Website",
+        "image":"colorBlocks.jpg",
+        "url":"https://youngestbuffalo.github.io/colorblocksHTML/"
+      }
+    ],
+    "projects2": [
+      {
+        "title":"Game of Life",
+        "category":"C#/MVC windows app, Conway's game of life, THIS IS NOT POSTED OR FINISHED. The link brings you to the current sites repo",
+        "image":"gol.gif",
+        "url":"https://github.com/YoungestBuffalo/resume-site"
       },
       {
         "title":"Rogue Game",
         "category":"This project/idea is originally a fork from Jean Lange, and a project we worked on in class in ruby. I will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link.",
         "image":"rogue.gif",
         "url":"https://github.com/YoungestBuffalo/rogue"
-      },
-  
-      {
-        "title":"Color Blocks",
-        "category":"Basic HTML Website",
-        "image":"colorBlocks.jpg",
-        "url":"https://www.themoviedb.org/"
-      },
-      {
-        "title":"Game of Life",
-        "category":"C#/MVC windows app, Conway's game of life, THIS IS NOT POSTED OR FINISHED. The link brings you to the current sites repo",
-        "image":"gol.gif",
-        "url":"https://github.com/YoungestBuffalo/resume-site"
       }
-     
-     
     ]
   } ,
   "testimonials":{
     "testimonials":[
-      {
-        "text":"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.",
-        "user":"Theodore Roosevelt"
-      },
-      {
-        "text":"If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours. ",
-        "user":"Henry David Thoreau"
-      }
+     
      
     ]
   }
